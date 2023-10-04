@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wrongkidd
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning full stack developer
-- 💞️ I’m looking to collaborate on frontend develpoment
+- 🌱 I’m currently a full stack developer
+- 💞️ I’m looking to collaborate on mobile and web develpoment
 - 📫 How to reach me ...
 
 <!---
