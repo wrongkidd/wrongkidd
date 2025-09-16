@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kim J
+- 👋 Hi, I’m Kim J
 - 👀 I’m interested in coding and developing new tech for the world
 - 🌱 I’m currently a Full stack web and mobile platform developer | AI/ML engineer | System architect | Cloud engineer | System admin
 - 💞️ I’m looking to collaborate on both public and private projects
